@@ -4,3 +4,17 @@
 
 layout: home
 ---
+
+# Header 1
+
+## Header 2
+
+### Header 2
+
+```c
+/* here's a code block.. is it highlighted? */
+int main(int argc, char *argv[])
+{
+    return 0;
+}
+```
